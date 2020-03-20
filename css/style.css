@@ -1,0 +1,48 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.style0,
+.style1 {
+  display: flex;
+  flex-direction: column
+}
+.style0 {
+  width: 100%;
+  height: 5.005vh;
+  align-items: stretch
+}
+.style1 {
+  background-color: #f6f8f9;
+  height: 100%;
+  align-items: center;
+  justify-content: center
+}
+.desktop1container0container1row0 {
+  display: flex;
+  width: 97.222%;
+  height: 60%;
+  align-items: center
+}
+.style2,
+.style3,
+.style4,
+.style5,
+.style6 {
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  font-weight: 700;
+  height: 50%
+}
+.style3,
+.style4,
+.style5,
+.style6 {
+  font-size: 11px;
+  height: 40%
+}
+.style7 {
+  width: 2.142%;
+  height: 100%
+}
